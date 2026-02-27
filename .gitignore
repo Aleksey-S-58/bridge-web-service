@@ -1,9 +1,10 @@
 */bin/
 */target/
-*/log/
+/log/
 .classpath
 .project
 .settings/
 *.class
 *.jar
 *.log
+/target/
