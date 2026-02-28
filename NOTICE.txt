@@ -1,0 +1,41 @@
+The project uses third party dependencies which are 
+distributed under their own licenses.
+
+This project requires following dependencies to be placed 
+in libs subdirectory near by executable jar file:
+
+spring-boot-starter-web
+spring-boot-starter
+spring-boot
+spring-boot-autoconfigure
+spring-boot-starter-logging
+spring-core
+spring-jcl
+snakeyaml
+spring-boot-starter-json
+jackson-databind
+jackson-annotations
+jackson-core
+jackson-datatype-jdk8
+jackson-datatype-jsr310
+jackson-module-parameter-names
+spring-boot-starter-tomcat
+tomcat-embed-core
+tomcat-embed-el
+tomcat-embed-websocket
+spring-web
+spring-beans
+spring-webmvc
+spring-context
+spring-expression
+spring-boot-starter-security
+spring-aop
+spring-security-config
+spring-security-core
+spring-security-crypto
+spring-security-web
+commons-lang3
+log4j-core
+log4j-api
+log4j-slf4j2-impl
+slf4j-api
